@@ -35,3 +35,7 @@ Create an NLP model to classify abstract sentences into the role they play (e.g.
 ## Best Model Structure
 - Achieved an accuracy of ~88% on tribrid model with PubMed BERT Expert and layers including token-level embeddings, character-level embeddings and positional embeddings.
 > ![structure](structure.png)
+
+## Demo -> How our model classifies Abstract sentences
+
+> ![demo](demo.png)
