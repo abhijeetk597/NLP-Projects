@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+joblib
+tensorflow
+tensorflow_hub
+numpy
+pandas
+spacy
